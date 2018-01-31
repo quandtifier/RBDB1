@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[PROPERTY_TYPE]
+(
+	[Type] nvarchar(12) NOT NULL PRIMARY KEY
+)

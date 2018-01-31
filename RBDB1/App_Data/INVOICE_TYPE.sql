@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[INVOICE_TYPE]
+(
+	[Type] nvarchar(12) NOT NULL PRIMARY KEY
+)
